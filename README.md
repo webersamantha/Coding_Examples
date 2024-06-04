@@ -60,5 +60,4 @@ In the final part, I fine-tune the model based on the suicidal data to create Re
 This is a further development of an existing MRT toolbox (Tb_CAPs). In order to make data processing more efficient, a data reduction was incorporated (PCA), which reduced the processing time (pre-processing) of 160 subjects from ~2.5 weeks to ~6 hours. 
 The publication on this: https://doi.org/10.1016/j.nicl.2024.103583
 
-Translated with DeepL.com (free version)
 
